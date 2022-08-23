@@ -29,7 +29,7 @@
 
 
 <br>
-![TOP LANG](https://github-readme-stats.vercel.app/api/top-langs/?username={AndreRD1026}&theme=blue-green)
+![TOP LANG](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRD1026&theme=blue-green)
 
 
 <!---
