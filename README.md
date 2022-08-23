@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Swift language...
 - 📫 How to reach me  https://www.linkedin.com/feed/
 
+https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRD1026)](https://github.com/AndreRD1026/github-readme-stats)
