@@ -15,16 +15,16 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-## My OS -> 
+## My OS<br>
 ![OS Develop](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-## My IDE ->
+## My IDE<br>
 ![VISUAL](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-## Games ->
+## Games<br>
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRD1026&layout=compact)](https://github.com/AndreRD1026/github-readme-stats)
