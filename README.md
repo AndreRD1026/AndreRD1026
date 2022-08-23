@@ -27,8 +27,6 @@
 ## Games<br>
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 
-
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRD1026&layout=compact)](https://github.com/AndreRD1026/github-readme-stats)
 
 
