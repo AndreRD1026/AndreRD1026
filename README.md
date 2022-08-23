@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Swift language...
 - 📫 How to reach me  https://www.linkedin.com/feed/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRD1026&layout=compact)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRD1026&layout=compact)
 
 <!---
 AndreRD1026/AndreRD1026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
