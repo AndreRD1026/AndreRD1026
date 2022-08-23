@@ -27,7 +27,7 @@
 ## Games<br>
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRD1026&layout=compact)]
+![LANG](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRD1026&theme=blue-green)
 
 <!---
 AndreRD1026/AndreRD1026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
