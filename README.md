@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @AndreRD1026
-- 👀 I’m interested in gaming and web developtment...
-- 🌱 I’m currently learning Swift language...
+- 📌 I’m interested in gaming and web developtment...
+- 🎯 I’m currently learning Swift language...
 - 📫 How to reach me  https://www.linkedin.com/feed/
 
-![GitHub followers](https://img.shields.io/github/followers/AndreRD1026?style=social)
+# 🚀Knowledges<br>
 
-## Programming Languages<br> 
+## ⌨️Programming Languages<br> 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -15,18 +15,18 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-## OS<br>
+## 💻OS<br>
 ![OS Develop](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-## IDE<br>
+## 🧑🏻‍💻IDE<br>
 ![VISUAL](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-## Games<br>
+## 🎮Games<br>
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 
 ![LANG](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRD1026&theme=blue-green)
