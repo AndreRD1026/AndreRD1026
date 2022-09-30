@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreRD1026
 - 📌 I’m interested in gaming and web developtment...
 - 🎯 I’m currently learning Swift language...
-- 📫 How to reach me  https://www.linkedin.com/feed/
+- 📫 How to reach me www.linkedin.com/in/andré-ramírez
 
 # 🚀Knowledges<br>
 
