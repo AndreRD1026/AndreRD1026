@@ -1,7 +1,12 @@
+
 - 👋 Hi, I’m @AndreRD1026
 - 📌 I’m interested in gaming and web developtment...
 - 🎯 I’m currently learning Swift language...
-- 📫 How to reach me www.linkedin.com/in/andré-ramírez
+- 📫 How to reach me www.linkedin.com/in/andré-ramírez <br><br>
+![astagif (1)](https://github.com/AndreRD1026/AndreRD1026/assets/79030416/77a86f8d-3107-4fcb-9041-6253eb78151e)
+
+
+
 
 # 🚀Knowledges<br>
 
@@ -51,6 +56,9 @@
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
 
 ![LANG](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRD1026&theme=blue-green)
+
+
+
 
 ## GG 
 
