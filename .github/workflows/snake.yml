@@ -12,7 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Sutil/snk@master
+      #owner/repo@ref
+      - uses: AndreRD1026/AndreRD1026@master
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
