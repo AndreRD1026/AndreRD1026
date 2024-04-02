@@ -13,7 +13,7 @@ jobs:
     steps:
       # Snake Animation
       #owner/repo@ref
-      - uses: AndreRD1026/AndreRD1026@master
+      - uses: AndreRD1026/AndreRD1026@main
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
