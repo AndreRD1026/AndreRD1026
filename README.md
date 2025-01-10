@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @AndreRD1026
-- 📌 I’m interested in gaming and web developtment...
+- 📌 I’m interested in gaming and web development...
 - 🎯 I’m currently learning Swift language...
 - 📫 How to reach me www.linkedin.com/in/andré-ramírez <br><br>
 ![astagif (1)](https://github.com/AndreRD1026/AndreRD1026/assets/79030416/77a86f8d-3107-4fcb-9041-6253eb78151e)
@@ -37,7 +37,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GPC](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 💾DataBase<br>
+## 💾DBMS<br>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -78,11 +78,3 @@
 ## GG 
 
 ![snake gif](https://github.com/AndreRD1026/AndreRD1026/blob/output/github-contribution-grid-snake.svg)
-
-<!---
-AndreRD1026/AndreRD1026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on ...
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRD1026&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRD1026&langs_count=8)
---->
